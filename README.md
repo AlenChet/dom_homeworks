@@ -1,1 +1,1 @@
-[![Build Status](https://github.com/AlenChet/homeworks_dom/actions/workflows/web.yml/badge.svg)](https://github.com/AlenChet/homeworks_dom/actions/workflows/web.yml)
+![CI](https://github.com/AlenChet/dom_homeworks/actions/workflows/web.yml/badge.svg)
